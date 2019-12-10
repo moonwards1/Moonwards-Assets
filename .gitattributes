@@ -19,8 +19,9 @@
 *.shape filter=lfs diff=lfs merge=lfs -text
 *.mesh filter=lfs diff=lfs merge=lfs -text
 
-# Other
+# Image Creation
 *.kra filter=lfs diff=lfs merge=lfs -text
+*.xcf filter=lfs diff=lfs merge=lfs -text
 
-# Projects
+# 3d Model Creation
 *.blend filter=lfs diff=lfs merge=lfs -text
