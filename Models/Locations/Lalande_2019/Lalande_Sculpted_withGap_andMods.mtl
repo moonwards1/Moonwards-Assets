@@ -1,0 +1,13 @@
+# Blender MTL File: 'Lalande_Sculpted_withGap_andMods.blend'
+# Material Count: 1
+
+newmtl Lalande_ImageTexture
+Ns 6.712816
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Lalande_2019_Whole_ImageTexture_Tint_8192_32colors_Dither.png
